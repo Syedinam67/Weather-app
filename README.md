@@ -37,11 +37,10 @@ If you would like to download the code and try it for yourself:
 6. Open your browser at: `http://localhost:5173`
 
 ## 📸 Screenshots
+![Uploading image.png…]()
 
-*(Add your screenshots here after deploying or running locally)*
 
 ## 📄 License
 Distributed under the MIT License. See `LICENSE` for more information.
 
----
-Built with ❤️ by [Your Name]
+
