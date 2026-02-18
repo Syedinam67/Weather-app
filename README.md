@@ -37,7 +37,8 @@ If you would like to download the code and try it for yourself:
 6. Open your browser at: `http://localhost:5173`
 
 ## 📸 Screenshots
-![Uploading image.png…]()
+<img width="2846" height="1430" alt="Screenshot 2026-02-18 181930" src="https://github.com/user-attachments/assets/55693b28-df4c-4524-81e1-178cd1af7b8a" />
+
 
 
 ## 📄 License
